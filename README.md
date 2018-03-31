@@ -8,6 +8,14 @@ Com um celular em mãos você poderá soltar um flash para espantar a bruxa e so
 ## A HISTORIA
 Participar do maior evento de jam mundial é para os fortes. São 48h para desenvolver um jogo e ser criativo no meio da multidão. É o momento de se unir a sua equipe e partilhar conhecimento, mas e se você se vê sozinho e em perigo?
 
+## Equipe de desenvolvimento do jogo:
+
+- Game Designer: Gabriel Gularte, Madelaine Vieira, Lucas Galvão Nunes, Otávio Fidalgo, Wilian Silva
+- Artista 2D: Gabriel Gularte
+- Artista 3D: Otavio Fidalgo, Wilian Silva
+- Audio: Victor Kalckmann
+- Programador: Lucas Galvão Nunes, Wilian Silva
+
 ## Screen Shots
 ![Menu](https://github.com/LucasGalvaoNunes/alone_in_the_jam/blob/master/press/Alone%20in%20the%20jam_2017-01-24_22-15-22.png)
 
