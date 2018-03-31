@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoOnda.Plugins", "ProjetoOnda.Plugins.csproj", "{6CB2C2DD-677D-4E69-2C80-6D04843E4B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoOnda", "ProjetoOnda.csproj", "{499E4F07-A154-3E35-3C8B-78E15C0F5531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoOnda.Editor.Plugins", "ProjetoOnda.Editor.Plugins.csproj", "{6E324A7F-5D79-0C0D-48CD-AA2B0DFF1209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB2C2DD-677D-4E69-2C80-6D04843E4B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB2C2DD-677D-4E69-2C80-6D04843E4B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB2C2DD-677D-4E69-2C80-6D04843E4B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB2C2DD-677D-4E69-2C80-6D04843E4B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499E4F07-A154-3E35-3C8B-78E15C0F5531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499E4F07-A154-3E35-3C8B-78E15C0F5531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499E4F07-A154-3E35-3C8B-78E15C0F5531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499E4F07-A154-3E35-3C8B-78E15C0F5531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E324A7F-5D79-0C0D-48CD-AA2B0DFF1209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E324A7F-5D79-0C0D-48CD-AA2B0DFF1209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E324A7F-5D79-0C0D-48CD-AA2B0DFF1209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E324A7F-5D79-0C0D-48CD-AA2B0DFF1209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
